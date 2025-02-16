@@ -1,3 +1,3 @@
 #MACHINE LEARNING 
-Fertilizer Recommendation Model
-Weather Prediction Model
+1. Fertilizer Recommendation Model
+2. Weather Prediction Model
